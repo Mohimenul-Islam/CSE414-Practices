@@ -15,6 +15,8 @@ This repository contains my practice tasks and projects for the Mobile Applicati
 7. **Task 07: Grid View** - An app that displays images in a responsive grid layout with proper padding and spacing.
 8. **Task 08: Navigation Drawer** - An app with a drawer that has multiple options, each navigating to a different screen.
 9. **Task 09: Custom Card** - A custom Card widget with an image, title, subtitle, description, and smooth tap animations within a ListView.
+10. **Task 10: Bottom Navigation** - An app with a bottom navigation bar containing three tabs (Home, Search, Profile), each displaying different content.
+11. **Task 11: Local Assets** - An app that displays an image from local assets with proper pubspec.yaml configuration.
 
 ## Structure
 
@@ -34,6 +36,8 @@ Task06_LoginForm/
 Task07_GridView/
 Task08_NavigationDrawer/
 Task09_CustomCard/
+Task10_BottomNavigation/
+Task11_LocalAssets/
 ```
 
 ## Tech Stack
@@ -69,4 +73,4 @@ To run any of these projects:
 
 ## Date Last Updated
 
-April 17, 2025
+April 18, 2025
