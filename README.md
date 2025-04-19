@@ -18,6 +18,7 @@ This repository contains my practice tasks and projects for the Mobile Applicati
 10. **Task 10: Bottom Navigation** - An app with a bottom navigation bar containing three tabs (Home, Search, Profile), each displaying different content.
 11. **Task 11: Local Assets** - An app that displays an image from local assets with proper pubspec.yaml configuration.
 12. **Task 12: Styled Container** - An app with a custom styled container having rounded corners, colored background, shadow, and text inside.
+13. **Task 13: Custom AppBar** - An app with a customized AppBar featuring a logo, title, and action buttons like search and menu.
 
 ## Structure
 
@@ -40,6 +41,7 @@ Task09_CustomCard/
 Task10_BottomNavigation/
 Task11_LocalAssets/
 Task12_StyledContainer/
+Task13_CustomAppBar/
 ```
 
 ## Tech Stack
